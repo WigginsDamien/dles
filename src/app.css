@@ -51,6 +51,10 @@ a {
   transform: translateY(0);
 }
 
+.hideBtn {
+  visibility: hidden;
+}
+
 .menu-link {
   @apply p-2 flex gap-2 justify-center  text-colorText [&:nth-child(odd)]:bg-colorCardA [&:nth-child(even)]:bg-colorCardB;
 }

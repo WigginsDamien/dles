@@ -2332,150 +2332,58 @@
   },
   {
     "name": "Word Chain",
-    "url": "https://wordnerd.co/wordchain",
-    "description": "Connect the two unrelated words by adding a chain of related words between them.",
-    "tags": [
-      "words"
-    ],
-    "category": "Words",
     "id": 217
   },
   {
     "name": "Word Chase",
-    "url": "https://wordchase.semantle.com",
-    "description": "Guess the secret word within 5 tries, receiving a new word as a hint before each guess.",
-    "tags": [
-      "words"
-    ],
-    "category": "Words",
     "id": 218
   },
   {
     "name": "Word Connection",
-    "url": "https://www.thewordfinder.com/word-connection",
-    "description": "Link a chain of 4 relevant words together.",
-    "tags": [
-      "words"
-    ],
-    "category": "Words",
     "id": 219
   },
   {
     "name": "Word Grid",
-    "url": "https://wordgrid.clevergoat.com",
-    "description": "Fill the cells in the grid with words matching the criteria of both their row and column",
-    "tags": [
-      "words"
-    ],
-    "category": "Words",
     "id": 220
   },
   {
     "name": "Word Peaks",
-    "url": "https://vegeta897.github.io/word-peaks",
-    "description": "Guess the word in 6 tries. After each guess, it will show whether each letter occurs earlier or later in the alphabet compared to the corresponding letter in the secret word.",
-    "tags": [
-      "wordle",
-      "words"
-    ],
-    "category": "Words",
     "id": 221
   },
   {
     "name": "Word Waffle",
-    "url": "https://wordwaffle.org",
-    "description": "Move letters to create words both horizontally and vertically.",
-    "tags": [
-      "wordle",
-      "words"
-    ],
-    "category": "Words",
     "id": 222
   },
   {
     "name": "Word500",
-    "url": "https://word500.com/game?mode=daily",
-    "description": "Guess the word in 8 tries, but you're only given how many guessed letters are in the right place or wrong place.",
-    "tags": [
-      "wordle",
-      "words"
-    ],
-    "category": "Words",
     "id": 223
   },
   {
     "name": "WordAll",
-    "url": "https://wordall.xyz",
-    "description": "Guess all of the Wordle words, given the starting clues.",
-    "tags": [
-      "wordle",
-      "words"
-    ],
-    "category": "Words",
     "id": 224
   },
   {
     "name": "Wordga",
-    "url": "https://wordga.com/daily",
-    "description": "Find as many 4+ letter words using today's letters.",
-    "tags": [
-      "words"
-    ],
-    "category": "Words",
     "id": 225
   },
   {
     "name": "Wordistance",
-    "url": "https://wordistance.com",
-    "description": "Keep guessing words until you find the mystery word, each guess revealing the distance between the guessed word and mystery word.",
-    "tags": [
-      "logic",
-      "words"
-    ],
-    "category": "Words",
     "id": 226
   },
   {
     "name": "Wordless",
-    "url": "https://lessgames.com/wordless",
-    "description": "Solve Wordle puzzles of various sizes.",
-    "tags": [
-      "wordle",
-      "words"
-    ],
-    "category": "Words",
     "id": 227
   },
   {
     "name": "Worldle",
-    "url": "https://worldle.teuteuf.fr",
-    "description": "Guess the country by its shape on the world map.",
-    "tags": [
-      "geography",
-      "maps"
-    ],
-    "category": "Geography/History",
     "id": 228
   },
   {
     "name": "Yeardle",
-    "url": "https://histordle.com/yeardle",
-    "description": "Guess the year based on the given historical events of that year.",
-    "tags": [
-      "history",
-      "time"
-    ],
-    "category": "Geography/History",
     "id": 229
   },
   {
     "name": "Zebra Puzzles",
-    "url": "https://www.zebrapuzzles.com",
-    "description": "A collection of 5 daily logic puzzles of increasing difficulty.",
-    "tags": [
-      "logic"
-    ],
-    "category": "Math/Logic",
     "id": 230
   }
 ]
