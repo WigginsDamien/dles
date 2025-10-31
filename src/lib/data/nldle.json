@@ -5,106 +5,186 @@
     "id": 258,
     "attempts": "4",
     "hints": "Yes",
-    "displayStyle": "Grid"
+    "displayStyle": "Grid",
+    "partialWin": "Yes"
   },
   {
     "name": "Framed",
     "category": "Movies/TV",
-    "id": 129
+    "id": 129,
+    "attempts": "6",
+    "hints": "No",
+    "displayStyle": "Image",
+    "partialWin": "No"
   },
   {
     "name": "Daily Dozen Trivia",
     "category": "Trivia",
-    "id": 81
+    "id": 81,
+    "attempts": "9",
+    "hints": "No",
+    "displayStyle": "Grid",
+    "partialWin": "Yes"
   },
   {
     "name": "More/Less",
     "category": "Estimation",
-    "id": 234
+    "id": 234,
+    "attempts": "10",
+    "hints": "No",
+    "displayStyle": "Image",
+    "partialWin": "Yes"
   },
   {
     "name": "Costcodle",
     "category": "Estimation",
-    "id": 67
+    "id": 67,
+    "attempts": "6",
+    "hints": "No",
+    "displayStyle": "Image",
+    "partialWin": "No"
   },
   {
     "name": "Globle",
     "category": "Geography",
-    "id": 141
+    "id": 141,
+    "attempts": "Unlimited",
+    "hints": "No",
+    "displayStyle": "Image",
+    "partialWin": "No"
   },
   {
     "name": "Worldle",
     "category": "Geography",
-    "id": 445
+    "id": 445,
+    "attempts": "6",
+    "hints": "No",
+    "displayStyle": "Image",
+    "partialWin": "No"
   },
   {
     "name": "Box Office Game",
     "category": "Movies/TV",
-    "id": 26
+    "id": 26,
+    "attempts": "10",
+    "hints": "Yes",
+    "displayStyle": "List",
+    "partialWin": "Yes"
   },
   {
     "name": "Movie to Movie",
     "category": "Movies/TV",
-    "id": 241
+    "id": 241,
+    "attempts": "Unlimited",
+    "hints": "No",
+    "displayStyle": "Image",
+    "partialWin": "No"
   },
   {
     "name": "Puckdoku",
     "category": "Sports",
-    "id": 295
+    "id": 295,
+    "attempts": "9",
+    "hints": "No",
+    "displayStyle": "Grid",
+    "partialWin": "Yes"
   },
   {
     "name": "Movie Grid",
     "category": "Movies/TV",
-    "id": 237
+    "id": 237,
+    "attempts": "9",
+    "hints": "No",
+    "displayStyle": "Grid"
   },
   {
     "name": "Spellcheck",
     "category": "Words",
-    "id": 351
+    "id": 351,
+    "attempts": "15",
+    "hints": "No",
+    "displayStyle": "List",
+    "partialWin": "Yes"
   },
   {
     "name": "FoodGuessr",
     "category": "Food",
-    "id": 128
+    "id": 128,
+    "attempts": "15",
+    "hints": "Yes",
+    "displayStyle": "Image",
+    "partialWin": "Yes"
   },
   {
     "name": "Scrandle",
     "category": "Food",
-    "id": 333
+    "id": 333,
+    "attempts": "10",
+    "hints": "No",
+    "displayStyle": "Image",
+    "partialWin": "Yes"
   },
   {
     "name": "Thrice",
     "category": "Trivia",
-    "id": 391
+    "id": 391,
+    "attempts": "15",
+    "hints": "Yes",
+    "displayStyle": "List",
+    "partialWin": "Yes"
   },
   {
     "name": "Disorderly",
     "category": "Trivia",
-    "id": 93
+    "id": 93,
+    "attempts": "Unlimited",
+    "hints": "No",
+    "displayStyle": "List",
+    "partialWin": "No"
   },
   {
     "name": "Juxtastat",
     "category": "Geography",
-    "id": 186
+    "id": 186,
+    "attempts": "5",
+    "hints": "No",
+    "displayStyle": "Image",
+    "partialWin": "Yes"
   },
   {
     "name": "Catfishing",
     "category": "Trivia",
-    "id": 40
+    "id": 40,
+    "attempts": "10",
+    "hints": "No",
+    "displayStyle": "List",
+    "partialWin": "Yes"
   },
   {
     "name": "Kinda Hard Golf",
     "category": "Miscellaneous",
-    "id": 189
+    "id": 189,
+    "attempts": "Unlimited",
+    "hints": "No",
+    "displayStyle": "Graphics",
+    "partialWin": "No"
   },
   {
     "name": "Minute Cryptic",
     "category": "Words",
-    "id": 230
+    "id": 230,
+    "attempts": "Unlimited",
+    "hints": "Yes",
+    "displayStyle": "Textbox",
+    "partialWin": "No"
   },
   {
-    "name": "Cine2Nerdle",
+    "name": "Cine2Nerdle (Critical)",
     "category": "Movies/TV",
-    "id": 51
+    "id": 51,
+    "attempts": "20",
+    "hints": "Yes",
+    "displayStyle": "Textbox",
+    "partialWin": "No"
   }
 ]
