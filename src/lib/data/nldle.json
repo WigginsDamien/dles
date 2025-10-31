@@ -1,0 +1,110 @@
+[
+  {
+    "name": "NYT Connections",
+    "category": "Words",
+    "id": 258,
+    "attempts": "4",
+    "hints": "Yes",
+    "displayStyle": "Grid"
+  },
+  {
+    "name": "Framed",
+    "category": "Movies/TV",
+    "id": 129
+  },
+  {
+    "name": "Daily Dozen Trivia",
+    "category": "Trivia",
+    "id": 81
+  },
+  {
+    "name": "More/Less",
+    "category": "Estimation",
+    "id": 234
+  },
+  {
+    "name": "Costcodle",
+    "category": "Estimation",
+    "id": 67
+  },
+  {
+    "name": "Globle",
+    "category": "Geography",
+    "id": 141
+  },
+  {
+    "name": "Worldle",
+    "category": "Geography",
+    "id": 445
+  },
+  {
+    "name": "Box Office Game",
+    "category": "Movies/TV",
+    "id": 26
+  },
+  {
+    "name": "Movie to Movie",
+    "category": "Movies/TV",
+    "id": 241
+  },
+  {
+    "name": "Puckdoku",
+    "category": "Sports",
+    "id": 295
+  },
+  {
+    "name": "Movie Grid",
+    "category": "Movies/TV",
+    "id": 237
+  },
+  {
+    "name": "Spellcheck",
+    "category": "Words",
+    "id": 351
+  },
+  {
+    "name": "FoodGuessr",
+    "category": "Food",
+    "id": 128
+  },
+  {
+    "name": "Scrandle",
+    "category": "Food",
+    "id": 333
+  },
+  {
+    "name": "Thrice",
+    "category": "Trivia",
+    "id": 391
+  },
+  {
+    "name": "Disorderly",
+    "category": "Trivia",
+    "id": 93
+  },
+  {
+    "name": "Juxtastat",
+    "category": "Geography",
+    "id": 186
+  },
+  {
+    "name": "Catfishing",
+    "category": "Trivia",
+    "id": 40
+  },
+  {
+    "name": "Kinda Hard Golf",
+    "category": "Miscellaneous",
+    "id": 189
+  },
+  {
+    "name": "Minute Cryptic",
+    "category": "Words",
+    "id": 230
+  },
+  {
+    "name": "Cine2Nerdle",
+    "category": "Movies/TV",
+    "id": 51
+  }
+]
