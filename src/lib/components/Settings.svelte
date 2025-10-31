@@ -6,6 +6,7 @@
   import { page } from "$app/stores"
   import { base } from "$app/paths"
   import IconFavoriteOutline from "./Icons/IconFavoriteOutline.svelte"
+  import IconPlay from "./Icons/IconPlay.svelte"
 
   onMount(() => {
     if (isLocalStorageAvailable()) {
@@ -50,6 +51,11 @@
   <a class="menu-link btn-menu-item" href="{base}/favorites"
     ><IconFavoriteOutline /> Favorites</a
   >
+</div>
+<div data-sveltekit-reload class="flex justify-center items-center gap-1">
+    <a class="menu-link btn-menu-item" href="{base}/nldle">
+      <IconPlay />Play Guess the Dle
+    </a>
 </div>
 
 <style lang="postcss">
